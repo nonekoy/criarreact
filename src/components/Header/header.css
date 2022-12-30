@@ -1,0 +1,22 @@
+
+.Principal{
+    display: flex;
+    width: 840px;
+    height: 440px;
+    background-color: darkblue;
+    
+}
+.Principal li{
+    margin-right: 30px;
+}
+.Secundario{
+    display: flex;
+    width: 440px;
+    height: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    line-height: 50px;
+    list-style: none;
+}
